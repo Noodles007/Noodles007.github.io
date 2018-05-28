@@ -1,4 +1,4 @@
-var radius = 230;//3D 球的半径  
+var radius = 210;//3D 球的半径  
 var dtr = Math.PI/180;  
 var d=600;  
   
